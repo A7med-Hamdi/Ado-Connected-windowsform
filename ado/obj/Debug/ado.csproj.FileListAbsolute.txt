@@ -1,0 +1,28 @@
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\bin\Debug\ado.exe.config
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\bin\Debug\ado.exe
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\bin\Debug\ado.pdb
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\bin\Debug\System.Data.SqlClient.dll
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\bin\Debug\System.Data.SqlClient.xml
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\obj\Debug\ado.csproj.AssemblyReference.cache
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\obj\Debug\ado.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\obj\Debug\ado.Form1.resources
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\obj\Debug\ado.Properties.Resources.resources
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\obj\Debug\ado.csproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\obj\Debug\ado.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\obj\Debug\ado.csproj.CopyComplete
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\obj\Debug\ado.exe
+C:\Users\ahmed\OneDrive\Desktop\ado\ado\obj\Debug\ado.pdb
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\bin\Debug\ado.exe.config
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\bin\Debug\ado.exe
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\bin\Debug\ado.pdb
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\bin\Debug\System.Data.SqlClient.dll
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\bin\Debug\System.Data.SqlClient.xml
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\obj\Debug\ado.csproj.AssemblyReference.cache
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\obj\Debug\ado.csproj.SuggestedBindingRedirects.cache
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\obj\Debug\ado.Form1.resources
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\obj\Debug\ado.Properties.Resources.resources
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\obj\Debug\ado.csproj.GenerateResource.cache
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\obj\Debug\ado.csproj.CoreCompileInputs.cache
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\obj\Debug\ado.csproj.CopyComplete
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\obj\Debug\ado.exe
+D:\ITI monifa 2022-08\c#advanced\ado day1\lab\ado\ado\obj\Debug\ado.pdb
